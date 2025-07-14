@@ -1,10 +1,10 @@
-# 🧠 Website & Messaging Audit + AI-Powered Conversion Fixes
+# Website & Messaging Audit + AI-Powered Conversion Fixes
 
 A full-funnel website audit system that combines human behavior psychology, UX clarity, and AI-enhanced messaging to increase conversions, trust, and emotional connection.
 
 ---
 
-## 📍 Use Case
+## Use Case
 
 Built for founders, consultants, and marketers who want:
 - Higher conversion from existing traffic
@@ -13,12 +13,12 @@ Built for founders, consultants, and marketers who want:
 
 ---
 
-## 🧩 Pain Points This Solves
+## Pain Points This Solves
 
-- 🥴 "Our bounce rate is high, but we don't know why"
-- 🤔 Confusing headlines or weak CTAs
-- 🧱 Website feels crowded or disorganized
-- 🧵 Brand story isn't flowing or converting
+- "Our bounce rate is high, but we don't know why"
+- Confusing headlines or weak CTAs
+- Website feels crowded or disorganized
+- Brand story isn't flowing or converting
 
 ---
 
@@ -35,7 +35,7 @@ Built for founders, consultants, and marketers who want:
 
 ---
 
-## 🔍 Audit Framework
+## Audit Framework
 
 This audit uses the **O‑DISH™ Framework**:
 - **Optimize:** Identify friction and low-converting elements
@@ -46,7 +46,7 @@ This audit uses the **O‑DISH™ Framework**:
 
 ---
 
-## 🛠️ Tools & Methods
+## Tools & Methods
 
 - **Hotjar / Microsoft Clarity (optional):** Behavior data if available
 - **Airtable or Notion:** Audit + action board (delivered to client)
@@ -55,25 +55,25 @@ This audit uses the **O‑DISH™ Framework**:
 
 ---
 
-## ✨ Sample Prompt – AI Messaging Rewrite
+## Sample Prompt – AI Messaging Rewrite
 
 You are a conversion strategist rewriting the hero section of a website for a solo consultant. Keep it punchy, emotionally clear, and value-driven. Max: 15 words.
 
 
 
-> 💡 This prompt is designed for Claude or GPT-4o. Variations for tone and niche included.
+> his prompt is designed for Claude or GPT-4o. Variations for tone and niche included.
 
 ---
 
-## 🧠 Real-World Results
+## Real-World Results
 
-- 💥 45% increase in homepage retention after messaging audit
-- 🧭 Client clarity in pitch = faster conversions
-- 🪄 Created reusable prompt system so team can iterate without a strategist
+- 45% increase in homepage retention after messaging audit
+- Client clarity in pitch = faster conversions
+- Created reusable prompt system so team can iterate without a strategist
 
 ---
 
-## 📎 Bonus Files Included
+## Bonus Files Included
 
 - Claude + ChatGPT prompt pack for site rewrites
 - Notion/Airtable Audit Template
@@ -82,7 +82,7 @@ You are a conversion strategist rewriting the hero section of a website for a so
 
 ---
 
-## 👩‍💻 Created By
+## Created By
 
 This system was developed by **Lilian Odish**, Strategic Growth Consultant and creator of the **O‑DISH™ Framework**.  
 
